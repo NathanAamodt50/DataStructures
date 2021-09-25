@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1603690436 source:c:\users\natea\desktop\data structures\aamodta5\trees\bst.cpp
+	<iostream>
+	<iomanip>
+	"BST.h"
+
+1603690274 c:\users\natea\desktop\data structures\aamodta5\trees\bst.h
+

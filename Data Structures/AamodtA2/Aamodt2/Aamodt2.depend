@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1601261706 source:c:\users\natea\desktop\assembly language\aamodta2\list.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	"List.h"
+
+1600976719 c:\users\natea\desktop\assembly language\aamodta2\list.h
+
+1601261276 source:c:\users\natea\desktop\assembly language\aamodta2\main.cpp
+	<iostream>
+	"List.h"
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1602108037 source:c:\users\natea\desktop\data structures\aamodta4\queue.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	"Queue.h"
+
+1602004531 c:\users\natea\desktop\data structures\aamodta4\queue.h
+

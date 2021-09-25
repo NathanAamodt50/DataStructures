@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1601433179 source:c:\users\natea\desktop\assembly language\aamodta2\aamodta3\stack.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	"Stack.h"
+
+1601416234 c:\users\natea\desktop\assembly language\aamodta2\aamodta3\stack.h
+
